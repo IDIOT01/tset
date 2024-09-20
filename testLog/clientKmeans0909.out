@@ -1,0 +1,2700 @@
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7d55c179-aff4-4c30-9bc3-5a46ec8a0d00
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6f054c66-3f1d-4fb2-913d-930e3aa9971d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message cd53066d-7eca-46d0-a8f1-a695d5d40f07
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 60dc9ca9-9da3-4774-af60-605da875666b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 75aed87a-e92e-4da6-8943-f3abeded6d20
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8d436df1-2dd9-4dab-9126-34cfa9192ae1
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b13cdd75-5495-4546-905c-4175ffdf72a0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d3148ad3-83d3-4da0-8411-53705d595ede
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 3587e43d-78ba-4a5d-9da8-28fd7b8f8d10
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9758d1ab-576d-4680-85b8-c707133eaa5e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message cb8b458c-07f1-4b8f-b2b3-aadf76a13bcf
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0a428fc0-6641-49a4-8233-c100e963434b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0016b31b-c3cd-453e-b454-0e460e04da58
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fad9e829-c124-4c4c-b32e-a4ca6b175284
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1f1878d8-8065-4194-9492-3e6236eabc95
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 71d8a733-69b9-4992-9199-593039f1f342
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d7f2057b-4e42-4999-800c-8f3c3a132744
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message dad2baab-c02a-47c7-9926-22f2cf41915a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 3a816a34-efba-4883-afe6-ee13168e23b2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0bd1e4a4-4614-4838-aa42-65b889733824
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4eb3c9b5-6e04-4228-b3b1-2261920df73f
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ff790986-1383-4511-ab78-2a27a5227ada
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5941595d-6e1a-4d22-9a40-2f810247a170
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b57db5d8-0d38-4e8c-9182-0cbacfc5a720
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 44914969-c2f4-4e22-b458-82cbafef31ff
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message de957039-05b2-448c-a879-64c6c7e93ed8
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c2162764-07b8-4622-bd84-eb5d57d55048
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message bf7f281c-1107-4459-bf6b-118fa06d983b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6da48657-7569-4013-99ee-47fc7d68d0d3
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 173769e4-4c1a-4649-9ed8-ab77b93a4313
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 17700d6f-b136-4aa8-a166-0fd55ea6d040
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 632bc7e9-638c-48ca-90e8-3cdde37e8ce6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ec6f2bbe-4b52-44c0-bb3d-a27844b55248
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1ca4a0ab-1f4e-4b16-93dc-b3c6126758d6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 79105e35-e055-4ad5-a81a-4216341dbc5a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ad765097-915b-4a48-bf57-c4c4d5faa053
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d1079e34-20de-4759-b3eb-e5685cf190bf
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 98457a6f-a373-4edb-a3b6-1fba47e62600
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message aa48e2e7-e716-4f5e-bd9a-61d73fa67a73
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f8c6dd96-ed5f-44f9-a7d3-41f65ec374ef
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    fl.client.start_numpy_client(
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+    start_client(
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+    _start_client_internal(
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553171243+00:00"}"
+>  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553437873+00:00"}"
+>
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553249059+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553253647+00:00"}"
+>    raise self
+
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553351862+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    fl.client.start_numpy_client(
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553421292+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>    _start_client_internal(
+
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553171313+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+    fl.client.start_numpy_client(
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553171233+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553235113+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>    raise self
+
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553205337+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553416813+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553437803+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553320543+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553219353+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553306817+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553451518+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553400994+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {created_time:"2024-09-10T03:53:31.553374013+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553299784+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 0.1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 0.1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8081 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:53:31.553247857+00:00"}"
+>

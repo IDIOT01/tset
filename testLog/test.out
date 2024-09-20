@@ -1,0 +1,195 @@
+nohup: ignoring input
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedAvg', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+No targets attribute, try tensors[1]
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 65, in <module>
+    client = client_fn(cid=args.idx)
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 61, in client_fn
+    return client_class(
+  File "/home/ubuntu/Zwdw/Code/flower/clients/base_client.py", line 37, in __init__
+    self.train_loader, self.test_loader = load_data(
+  File "/home/ubuntu/Zwdw/Code/flower/data/data_manager.py", line 74, in load_data
+    client_datasets = dirichlet_data_partition(train_dataset, num_clients=config["num_clients"],
+  File "/home/ubuntu/Zwdw/Code/flower/data/data_manager.py", line 33, in dirichlet_data_partition
+    labels = dataset_ini.tensors[1]
+AttributeError: 'Subset' object has no attribute 'tensors'
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedAvg', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+No targets attribute, try tensors[1]
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 65, in <module>
+    client = client_fn(cid=args.idx)
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 61, in client_fn
+    return client_class(
+  File "/home/ubuntu/Zwdw/Code/flower/clients/base_client.py", line 37, in __init__
+    self.train_loader, self.test_loader = load_data(
+  File "/home/ubuntu/Zwdw/Code/flower/data/data_manager.py", line 74, in load_data
+    client_datasets = dirichlet_data_partition(train_dataset, num_clients=config["num_clients"],
+  File "/home/ubuntu/Zwdw/Code/flower/data/data_manager.py", line 33, in dirichlet_data_partition
+    labels = dataset_ini.tensors[1]
+AttributeError: 'Subset' object has no attribute 'tensors'
+nohup: ignoring input
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725846626.967902  394694 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725846626.976040  394965 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725846626.976405  394965 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725846626.980368  394693 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725846626.987887  394966 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725846626.988170  394966 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a4939b69-f5a4-4770-9c5e-4b2f83cfeecc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d1bd86d4-20a7-4051-87dc-3a66f13aeda0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 63d3d6c4-ff10-4f14-97f1-566b74395565
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Disconnect and shut down
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+No expert models returned from the server. Skipping MLP update.
+[92mINFO [0m:      Disconnect and shut down
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+nohup: ignoring input
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725846835.349597  395672 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725846835.349777  395671 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725846835.356467  395945 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725846835.356728  395945 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725846835.356974  395944 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725846835.357235  395944 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e6a7e8c9-d52f-442e-8321-d70c745e830c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6dadd4a4-0e61-40ef-aa00-fe3c1ccbe32f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 500c3ba7-31dc-4013-b285-280afaab814c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b8685a7d-4b30-4968-a7c9-ea7bfd85935a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e6a827d1-d1b8-4d3a-88e1-f3a22213be7c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message cb1b2b14-5e58-4d7c-9b78-f66de128828f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0bbc3eb3-6553-4652-93d0-dbbc03c347fd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9c507a8b-8d40-49ff-8fdf-9c45849be191
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b858e43b-feea-4250-b2ed-26ed6c2446bc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a28cfef3-b8a0-4b1f-a11f-7ea7de6474f9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'MNIST', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedFT', 'rounds': 150, 'num_clients': 2, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 3, 'device': 'cuda:1', 'fine_tune_epoch': 5, 'public_rate': 0.2, 'csv_name': 'fedft', 'csv_path': './logs/final/fedft/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn', 'model_kwargs': {'class_num': 10, 'mlp_hidden_dim': 128}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 2, 'top_k': 2, 'mlp_hidden_dim': 128}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.01, 'weight_decay': 0.05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+No expert models returned from the server. Skipping MLP update.
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    start_client(
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8089 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-09T01:57:22.551447341+00:00"}"
+>
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8089 {created_time:"2024-09-09T01:57:22.551447301+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>

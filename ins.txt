@@ -1,0 +1,27 @@
+python client.py -c configs/fedft.yaml --idx 0
+python client.py -c configs/fedft.yaml --idx 1
+
+
+
+python server.py -c configs/fedft.yaml -p 8081
+python server.py -c configs/fedavgDense.yaml -p 8082
+python server.py -c configs/fedprox.yaml -p 8083
+python server.py -c configs/fedRA.yaml -p 8085
+
+
+
+nohup python server.py -c configs/fedft.yaml -p 8081 > ./testLog/serverKmeans.out 2>&1 &
+nohup python server.py -c configs/fedavgDense.yaml -p 8082 > ./testLog/serverAvg0909.out 2>&1 &
+nohup python server.py -c configs/fedprox.yaml -p 8083 > ./testLog/serverProx0908.out 2>&1 &
+nohup python server.py -c configs/fedRA.yaml -p 8085 > ./testLog/serverRA0908.out 2>&1 &
+
+
+nohup bash clientFT.sh >> ./testLog/clientFTKmeans.out 2>&1 &
+nohup bash clientAvg.sh >> ./testLog/clientAvg.out 2>&1 &
+nohup bash clientProx.sh >> ./testLog/clientProx.out 2>&1 &
+nohup bash clientRA.sh >> ./testLog/clientRA.out 2>&1 &
+
+
+nohup python server.py -c configs/template.yaml -p 8089 > ./testLog/testServer.out 2>&1 &
+nohup bash clientTemplate.sh >> ./testLog/test.out 2>&1 &
+

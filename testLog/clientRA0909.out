@@ -1,0 +1,2645 @@
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+Traceback (most recent call last):
+    fl.client.start_numpy_client(
+Traceback (most recent call last):
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    _start_client_internal(
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+Traceback (most recent call last):
+    message = receive()
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    fl.client.start_numpy_client(
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    proto = next(server_message_iterator)
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    start_client(
+Traceback (most recent call last):
+    message = receive()
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    fl.client.start_numpy_client(
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    proto = next(server_message_iterator)
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    _start_client_internal(
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    message = receive()
+    _start_client_internal(
+    raise self
+    return self._next()
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:58:28.817696489+00:00"}"
+>
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    proto = next(server_message_iterator)
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-09-10T03:58:28.817608434+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:58:28.817728639+00:00"}"
+>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    raise self
+    start_client(
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-09-10T03:58:28.817648119+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    _start_client_internal(
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    return self._next()
+    start_client(
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    start_client(
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    raise self
+    _start_client_internal(
+    raise self
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-09-10T03:58:28.817678806+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:58:28.817687352+00:00"}"
+>
+
+    message = receive()
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    raise self
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:58:28.817651325+00:00"}"
+>    return self._next()
+
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-09-10T03:58:28.817694726+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T03:58:28.817641526+00:00"}"
+>
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940739.710302  488102 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940739.719078  489499 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940739.719379  489499 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940739.835980  488109 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940739.844321  489564 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940739.844681  489564 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940739.971835  488112 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940739.982094  489629 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940739.982415  489629 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.005506  488110 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+I0000 00:00:1725940740.013688  489659 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.014045  489659 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.026398  488111 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.036981  489706 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.037294  489706 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.218120  488113 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.228138  488106 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.229645  489824 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.229936  489824 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.240578  489823 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.240858  489823 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.271287  488114 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.286656  488116 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.287204  489918 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.287547  489918 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.303843  489921 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.304158  489921 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.313221  488099 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.314349  488103 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+I0000 00:00:1725940740.327790  489986 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.328063  489986 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.328917  489985 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.329188  489985 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.344638  488107 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.349122  488108 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.349680  488100 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.358365  490108 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.358639  490108 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.361288  490111 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.361546  490111 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.362336  490110 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.362605  490110 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.417511  488098 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.421276  488101 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.427617  488115 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.431994  490408 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.432274  490408 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.432933  490409 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.433186  490409 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.434461  488105 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+I0000 00:00:1725940740.438827  490410 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.439037  490410 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+I0000 00:00:1725940740.445025  490412 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.445351  490412 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.457587  488117 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+[93mWARNING [0m:   DEPRECATED FEATURE: flwr.client.start_numpy_client() is deprecated. 
+	Instead, use `flwr.client.start_client()` by ensuring you first call the `.to_client()` method as shown below: 
+	flwr.client.start_client(
+		server_address='<IP>:<PORT>',
+		client=FlowerClient().to_client(), # <-- where FlowerClient is of type flwr.client.NumPyClient object
+	)
+	Using `start_numpy_client()` is deprecated.
+
+            This is a deprecated feature. It will be removed
+            entirely in future versions of Flower.
+        
+I0000 00:00:1725940740.469517  490521 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.469786  490521 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1725940740.491395  488104 config.cc:230] gRPC experiments enabled: call_status_override_on_cancellation, event_engine_dns, event_engine_listener, http2_stats_fix, monitoring_experiment, pick_first_new, trace_record_callops, work_serializer_clears_time_cache
+I0000 00:00:1725940740.497948  490698 work_stealing_thread_pool.cc:320] WorkStealingThreadPoolImpl::PrepareFork
+I0000 00:00:1725940740.498248  490698 fork_posix.cc:77] Other threads are currently calling into gRPC, skipping fork() handlers
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8c906300-dae4-4346-b6f3-5660eadc639b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0dea434a-7130-411a-9443-212fc3c5ae6b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7eb1d40d-0459-4d5e-a9db-48e71969dbfc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b8323500-00b7-4f32-86f0-1e3d1e47918d
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 298c4587-74ff-4494-b8f4-1721e90b1d78
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7c3c6e3e-1dff-4b13-bda2-c0e48a2174c4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0cc4a7cf-2626-4f20-9b21-7d5138415ea1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a9f44dc7-753a-4810-912e-fc8c3a646c86
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 782346ec-cc9e-4c23-a43c-f4ab52ef6b3a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 291413ad-c171-4879-94e6-5f5f0ac04133
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c8531253-61b4-4da2-a10b-f5eb5c3b8e89
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2734fcca-4829-42a2-9f9b-db4634335529
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 3b8b0927-ba1f-4ac8-87ec-e96a894ebe5a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0eed5297-0747-41ab-a095-f3d658fb10a7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 376cdaf9-93bf-4da9-8cca-2fc2640b588b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0a0a7a79-c8fa-4e7a-82a3-d8c68444c6c8
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 451282b4-f8aa-4707-a434-535b57a20630
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c1cdd84c-c42f-4267-86fd-49a0902ebe41
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 80e22b98-25c9-4eea-9fd1-ebbad7967630
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f6696e31-b505-4675-add0-44dfe7850e73
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 84566bb8-2713-4b10-83e6-fb8fffdf64ed
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0ada6a22-1e25-4257-853a-f300844d458a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1ec586b0-ddfc-4d40-af10-9debd48df1b0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 3df3b359-9201-4441-a28d-c8e857195ce6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9e630710-df39-4f80-a062-0d83dcb4db19
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c8a1da27-4e6d-49e1-bc1b-191c9fc17421
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b74d0be2-c162-4a6a-8d17-0111eff7af8b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 041999ae-7ff8-4a97-bb49-c007601f5319
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 570b1199-8e26-40df-bc12-bf09b49ec026
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4e9d90ed-623f-4f9a-b49d-6a0682433e1b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 299b19e6-f90f-4fb7-9e6e-ec488a1d097b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f0e6b604-28e8-45f6-a18b-b32aaf08b510
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message bb5acfe0-2bd2-4918-9ea9-94f057d18765
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 89d6e2a6-7dee-4b10-8d9e-649915c5cca1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8a47c6f6-a5cb-4156-bbcf-7ef3165ad417
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8f4e2562-1634-4d90-ae27-b2b08705e6a0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 715fd632-9977-4074-8f75-3e453c6336c5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 59b19873-3e9d-4cea-b4e9-86c6bc65b4ec
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 863cedc3-dd1f-4c94-9a86-d33da862027c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7ed45a20-35c3-419a-a43d-c6efbd8a6459
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 77e3629f-568f-45ad-991c-a25350323d12
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 26d480ca-67f3-4b82-b64e-61d9748c0ae5
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2e1863c3-c000-4804-9ae2-ba0640350ace
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 81f54232-e078-46f6-83a4-0b36069bc6e1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 97184013-6026-4200-ae6a-3afdf2212daf
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b5f9db48-cc09-4e5d-ab52-5ad29dc7b383
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5d7e82f1-3320-4b15-acf8-acbeccddbdc1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message beb93ae4-c014-4656-87bf-bcb252fe046d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 194c20f1-d4df-4abc-9116-847ed1f7e11b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b171834d-f2c8-44a6-b96a-00404a987906
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a7fbc983-4eb7-4491-905c-5d5e760a9555
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2ae4b4bd-a1a1-455d-9f6f-2d198fd56de2
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 89b880fc-1dae-4a25-8e9f-b1d5d213c3ec
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c8f29d0f-65e4-4e93-99c8-f9d065c38281
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0a469387-c951-4f58-9923-390c783d15c9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6021a0c8-8c93-43ee-b1f6-ab23139828b0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5cb0cff3-032b-4512-8860-29bceb586a6a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b8ec0ee9-208d-4f06-a7aa-98fd1e5d5453
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 14cbc23d-e944-4f10-a639-eee185c2919a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 226834db-54f9-4c76-bf15-75cc0ed5551a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 60687c5b-4389-4612-97e4-9acad5199b19
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message da7f1c31-a7c3-4171-8143-425d45dff89c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ccd70ce2-c8f9-421a-9e05-334112f357af
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f3a9bb65-70f1-4449-b48a-e54440e6a472
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ccd22291-0b24-4c0f-b6bb-8d81b3c05414
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5be1879b-5467-4244-88c1-d9c9e742aa47
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ed61a190-a6ac-41a1-9470-00c1b7429893
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c7720f50-9c05-4504-a17c-1ae734a4b066
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 721d2e3a-043f-4e29-8794-3431fe645759
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a923ce77-dcd9-469c-8054-1cc77a534d42
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a9dcec0e-e2f4-4911-a464-3939ca4c6e62
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e353a54b-2087-4e37-afb3-eb42029a6cde
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 27f47c6a-6fa3-4301-b604-a3b1af5578d5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 693385c7-52db-4163-885a-1802e75bb84e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message eefe57c8-0df1-4da3-8494-76f8e3be74b0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 54de01ee-bfca-4bd8-abbc-7914c27fded5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 209eafc4-2cf8-4807-992c-01af35c6324f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e045921a-4abe-4c41-a353-c8de3c5f7e16
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 96068540-2f34-478c-be47-1aee05b43ee8
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0998ff06-cbba-4dbd-bc47-ddf2d2b49661
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 296bb72e-f0a7-45b1-a747-dbdacaa7245e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0638ef4f-b966-4f19-9fbd-f063ae254d85
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b2d2fe18-798f-4ebe-81b6-23f158bcc809
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e0c1ef14-0b72-4069-9e01-57a35df81613
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 351bea66-f739-47e5-aab4-6261d543d0a5
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 787aec08-8aa3-4c99-b777-cb00077c2117
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 93de26ae-2e49-4ca7-af56-c98664d2f8d9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1c66f3ab-6016-47d8-b2a6-16e6cc7d56c0
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 814388f1-6f63-4202-91ef-244e429d0e71
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 51ac4af9-3b2d-46cf-91bd-c81140225271
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d46609fe-319e-4746-a1ab-4afc4e1e0e61
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 519be65c-8fe7-48cd-aa80-2c34e20c76dc
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 342f1808-04ff-4f8d-bf4c-6007ac488120
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4ed9a991-607f-4fa2-bcff-d3e0116faf48
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 434e4a4d-4fc4-4636-81a7-3bdfca7d2922
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a4a73736-2418-4c88-b07a-d8899fcdd008
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message bf66d1ec-e7f4-4910-9005-2a0f93fdbdff
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 3dc19234-db0a-470c-94c1-0f0df5dac5ec
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c30ed69d-c3c5-4ce9-9ffc-2d95bfd9ebf3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b6a7bbcb-f6b7-4f69-a075-73bdae61cada
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7f4b7fc6-73e4-4e12-8b43-cd96599c4930
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a6a3e6a5-579c-453b-9344-8ad564a232c3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message cfc58ee6-bd7d-4435-bf47-8c71793b5efa
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0a71561c-9042-46d4-94a1-a92080abca84
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4d0bcd75-3940-4baf-9b0c-50acd68cfc27
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 79d77da6-3499-41e0-a582-f57056e01b4a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 43e38ef0-e46e-43a6-aa91-2a0092360611
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2095dab0-f13d-4c66-9f06-2dda91eb9354
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b4f92bd2-381a-4da8-aa65-386d8f887d08
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 03239add-e040-4a0d-9ba7-ef8d92c83b0a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d01f0298-2e2d-4a22-8402-b41f0f43dcde
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2f7183e2-4c9c-4be3-ad1c-57f7dd7d07ec
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 10e4940f-90ec-48ec-87cc-bbda98e87426
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c90fd4d6-c5d5-44d9-9a4c-5b56fa75d378
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 92626c1b-a772-4bcc-896e-a2c16298f089
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 096edd0a-a0b7-4159-a4a0-c4498ca956bc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ec75f6dd-cca0-415b-86e5-80367b351c2e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6d1c942e-f74a-4cc8-960e-2f29a3a42762
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message bb5105d8-35ec-4385-b513-ce744a36116d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a3ad9aa0-a7e2-4d3c-ae69-98ccf3f066a3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a46304f9-81a6-415d-be24-6b3d3fcc7de4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message afaca04c-36c5-4468-8e8a-09d8f9081be7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 72b62002-9c57-448c-bb96-c80775ca3fed
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 891bcb10-bb83-4725-91f6-f7c794f98584
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 08058b81-19f3-4fb5-939d-f76d28804cc4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 9b8682e5-121a-4e6d-99e6-7e5d1824b2be
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a64dce8a-ebac-4b38-aabe-1f9653434483
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 864bb858-96e1-4f11-b2db-e34c50b74527
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 86481aa5-c29b-437a-8976-77a47816ecf4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ec25859f-c822-48d7-bf2d-4b778c8043b0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message cc575cbb-9b51-4131-8185-8cf06c65bded
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 37c41aeb-6a82-4b8a-bd93-885ec3bca4d2
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 371638f3-c5e6-4be0-8c0c-6e3374224551
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message fe8ed04f-e8d3-4cfb-9461-58861a3649f6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c030dfaf-a46a-44d1-b907-0b67d0c0fd6f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4245f613-2b2a-44f1-bc79-e8673a07e352
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0060f96a-290e-4540-a971-49c88ebe4dd6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 746a1eae-7778-4163-95b5-ed9dd134a8c5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1e71c532-7a98-4a70-a2d0-4cf04ceb6493
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 64da0fd2-fb0d-4061-9dad-9782d380a30a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 45f9bae0-ac6f-4a6f-a2ef-c6c2c903bd70
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 26726278-5e44-4ac2-9fa4-aef49aec5cc0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5c3431dd-f198-4e0c-b747-01e2d1bcd022
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8d32e7f8-ef18-4cbd-af07-316a8117fe11
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message df884dc2-7a77-4481-8346-939c983a677a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 66c0f8cd-cf00-4083-8a15-85580e6e0c3c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 349f3134-cc59-4dba-8da1-517ed8fe2723
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 37762e49-3385-401c-ba79-7b24d0026c82
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5c3b2fcb-90d9-4596-a734-165809e804c0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9327fddd-5cb6-4f50-a9cc-f51eb10fcb4b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 22efb73a-26b1-43ca-b72b-d223edb836a5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a0980f66-113a-47f6-9ebf-1aac7be128c4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 983b2d0e-a4b6-404b-a8d9-68484dd2118c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message eeb3b514-4da2-4c64-8096-0fff3bcdb1dd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8c87b14c-5258-4607-aeb7-f4e19a2580a5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7ceda459-963c-4471-bbd0-237f90f381cb
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a8abc9dd-5ccd-45fe-bffe-e8d283e14f3a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6d6c57e7-2066-4d75-b248-3508dc8a4f3a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c7f6f6bc-b3f3-42c3-b699-e16d3ce8926e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 496b3a78-e73e-4c5f-8d18-80504f9cbe37
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4c04c594-bd03-47e8-8d2a-f40818a26345
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a7099e57-1de2-4c8b-bb41-a297aa630b6c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b808c172-7b61-4b06-98f1-3920af5446b7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7fae383b-f1c7-4982-a3cc-58f3943ba982
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1b140ac3-cca2-4165-8652-363d52e50cc3
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 468b6f2d-d857-4939-a04e-4a82394c9632
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e310fb82-1db9-4c5e-a92f-c40e6c098f6f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e0574165-3302-4f83-abde-0d73a7c73f63
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d437dd19-13a7-4985-a195-fa2bb509f203
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6a15b276-4135-4929-a719-f292a30d8dfa
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a3f1ef66-47e6-497f-9d9a-799731692c24
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4718c899-967e-4edd-ae60-956bea6b7e04
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 52814684-82ad-47c4-8a5f-9981bf1d85a7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6d65e9f0-4c79-4fe5-bd4b-f3e2bc616575
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 86be42fe-bb1a-49d0-93bd-3038357ae3ef
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1708b167-b65f-4efe-a83d-eec6df57de8b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 071df98d-e5d7-4c50-94d0-af673a14f286
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5c3987e7-bbc1-4008-a963-bc4b9890f8a1
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0c668f90-8f69-40a2-b799-a541c0fa0e28
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f59181a2-499a-4b5f-9517-7a6419ede562
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2f980c69-aa09-46ef-a69b-b1d1b8e5b868
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 78191074-27f5-4e8d-81cf-507e657f58ab
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 10952902-933c-46ce-aa1f-326cf8547111
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 84bc3df6-f8a3-445d-b763-860ca9fd9e66
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a4d88b1f-2661-4350-900f-1f56ea0e99e4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7dcdf2af-7ec0-4dd1-ae74-c990e4bf1b8f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 932ab535-4fa8-4797-8d40-af297d80e0ee
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ea0195cd-99ee-4edf-ac00-4ffb7ba6b42a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 86e0d824-8bc0-4c7f-8f8d-0e03dd6aca3c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 873d83b0-0d79-4974-8523-5c113200ed81
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5ccca989-d9fd-4dee-936d-6a00908f9240
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 86e2b1b7-6bf3-40ab-a2f2-e035fecd2291
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4037d1da-4f21-4189-8868-0584c6f91621
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 825d8067-fd74-44ab-bdf4-1a6c8ccfc491
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 49346ed9-9ec9-4e55-944a-fe470bbaea2e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message dfc7a3d1-0800-42a1-a6ff-f6d687c4c5ec
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 21905c14-fab7-463e-9e8c-fe117c9cadd8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 98fa9f4c-1412-4595-9b60-c628ac0ebeb9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 79d4836b-ec03-4342-b40c-b2737e625343
+[92mINFO [0m:      Received: evaluate message 0ddca9f0-bb45-4014-b60e-be39169bcef0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0efcde57-687a-4d38-b75e-5414025d78ac
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6c359352-f09c-4743-b305-bcf00ea38aec
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 501072c1-6936-4fbe-af97-f679515963a2
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 986ba5d5-8e44-47d9-a43c-3d4e6e32e400
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0ff95598-4e03-45af-9dc1-89690339dd72
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message db75c146-c7a0-492f-b5de-bdc58f2647db
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6a887b68-9959-4ae8-aeec-556fe614e5ee
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c10986c7-d4d6-4608-be2e-1ea08b8982d0
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 50f4659f-4be2-4b8a-9c35-ac5b8f5579d5
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8b48b431-3d38-4c72-9864-bd0f06814a01
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b00c72bb-70ca-4666-84d6-72d7014811a8
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d95d12bb-f820-4d89-a9df-15b5987dc730
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8041dc75-576e-4619-bd9e-4904415fa809
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e477ac2e-52c6-4113-9a59-563c57df7f7c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message fbb1d5e6-39d9-47d5-9265-a39d7de56aa2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message bbce0bd9-ebe3-4ece-a2cf-d7dc48edb28b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0d313424-5856-4978-84a1-6be8ab1e4ec8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5c4cac63-a80c-4a54-bcca-e8df362aab94
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 133e078e-237d-4abb-b821-d76f0eac4c1a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6eef203d-22d6-4e4e-b8f2-fec856fe746a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2e26b53b-9232-4b7a-8632-beaabe1911c6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7159cb4b-8f0d-4efe-9d88-c50ab555f100
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9a4dba22-3696-4bc5-a5f5-e141e89c80bb
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b612a688-0c64-46c7-a679-24fec69f2499
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fc239784-4384-4bb1-90e6-03f0bab901b3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9ea1d8f4-b04f-452e-8f82-fe69dae8db27
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 275aa3b0-19c6-47e9-911f-b93b2413cbc6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ce523055-60dd-4932-8811-eb2bddb267c7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b7ad05ca-6ac5-47d6-ab12-bfca2662a798
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 69c7721f-899b-46e0-8cb2-cac3aee205c9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 3d642740-2269-4bae-969e-dc752c32bea7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0eba437a-22da-40e6-9ddd-cc2a1a15afa7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5d9d0aa3-09fc-4440-94a0-1fe076bb6736
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 124dbd10-6524-4dfa-bd24-3424e24290f2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fea7e458-9b91-4492-8e75-7484ef3ed700
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8847e89f-08c3-4ea4-85a4-cabf1f700eda
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8dea9b5a-7e53-49ec-8134-f2f4531a0f5a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8c03e5ae-51da-406e-a5df-03a9a4986249
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6bdf9138-6860-4c1f-8d94-45a31c64b8c7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 094efff0-93a9-4bf8-bad6-b4ff5ddfbed0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5f668c80-7d42-4374-9395-c447c1608a0b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e6d1b189-3e30-4ae6-8610-47768e45dfda
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c36072ef-4265-4ecb-9522-3e9b3b14c472
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4ae6d706-5082-4ad0-8b23-c25199a529e9
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 165d3973-4f57-4098-9d61-764b2aa7d989
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 13a4b51b-ce75-4124-b8a0-bf90e844e882
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message bea82f6e-a751-4667-890c-2fb4ce92f473
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 75884588-73f4-47d5-b6ea-69a4ddc2b381
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 09ac0022-9b0c-4067-bc30-acc7e64972a9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c8832703-3c76-4eb1-8bde-766d7955400b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7df20170-b0ed-43bd-b01f-ff30f5005e75
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f70dcbd4-7f0b-42bf-9245-92762e241f39
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 38fa5203-c9cc-4a20-af6e-cbddabef68f2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0e4d6d6c-6203-4961-80aa-688c4a869268
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 45d62c84-e60e-4af5-ae2f-c1780e19566a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1b39a178-c32d-4a67-be8d-157429fa8caf
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 24263393-dfa6-4875-9df7-696467939e96
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message bc759919-db7e-46a7-b7c8-70c66766f8b9
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 58cd68d0-a682-4064-bd24-50ed6cc86a08
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e56df695-f2b7-486a-9dbf-b046236c848a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 500b4d94-c08e-4fdc-b976-8c5adb1fed2f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 566b25a1-b546-4e76-816c-0b285a1b0655
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9d5c3d1d-ec66-4f1a-9465-daf3f1e87d96
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1f5acd5b-badf-46d2-ad25-9cd88d4004e8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8922bc20-4838-46c1-a6f6-11060216d810
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 84eb9def-d34d-4300-97ea-6dd9909a3ffa
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 23c0a439-c564-4e98-82e9-4c9f3be720a6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0346ebac-6f01-4e3f-be0d-01ff9befd46b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 204f5dc4-b969-4666-8e11-00e1c89f0c64
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 703ea248-301d-46d9-b4d1-c2c0aedb0864
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 99f87e69-014e-4f82-b34f-ad5af9bd7f82
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f4686eb5-f7ae-4efc-91d5-0f70884b2aa9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2bb0ca91-ff15-4c72-9dc2-4af2c5f775a2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c09db097-839b-46c0-ab41-b5a515a715d9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8e83f5ca-6619-4193-92cf-b1ca481b9f77
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 03786514-e515-49df-9349-9ffbca98403f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 86669e66-d733-4682-bd61-45e7924e111c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2f6cdb31-73ec-4b8d-b775-f2ebbc9b4a92
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message edc7563c-93ee-41be-aec1-a4218e000a82
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d7bc6202-6683-4550-aa9e-dd6ccb277fe8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 72988013-29bb-4f09-afce-b11eaee3686e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message db05c9a6-9496-4d6e-b12c-e7024fa97b2f
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1468387e-8d00-435d-893b-a21fdcb9ddee
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 463bebb3-43dd-4b10-883a-216d273be180
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 09b2c1b5-5fb2-46f6-9228-fa4215e9c29e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 222a2946-70d4-4d4d-a0bf-7183ca6a56ae
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 3114ff0e-ce83-483a-bf15-28edfefbc7f4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1a56a190-cff2-46a0-a4ad-67b8c6ab244f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6ac3ccfd-bef4-4bcc-8db1-b944fe18a9c5
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 99ca5bd0-9fd8-4cee-9490-83e0da461edb
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 29f8b241-99c7-4666-a231-9080663001a4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5e98a2d6-e80f-4378-bd47-2946f7000c81
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 19d440db-cf0a-4047-95d7-04d0fb48eb33
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a1cd5f94-1008-4650-90bd-66a9491e912d
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 74be1177-d974-493b-87b7-5e189a0c4bbc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 71024694-8dcd-491d-8a02-bf09c47aac8e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2d786944-a5a2-4121-a723-d351df27c614
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6260ee24-5f13-45b0-b5e3-9a3ddb91e42b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 359de09b-77db-4d46-8e9e-bf0d640ccb84
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 14ca87af-254a-41d9-9168-4e82b80c3ae8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 879a01fd-1e13-4e1d-9bea-c6bf994605b7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0929467f-83be-485d-a755-a91369030550
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0f11f45a-ca4d-4654-91c0-a640bf851aa3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 15022718-e33e-497c-9814-8340dcabd582
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c5273e1e-a114-4ee1-bf21-0a7f190b840b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e4973a5e-b190-491c-8fb1-97e9143444af
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e0083c9b-f764-46d2-8f26-db44aac034fb
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5aa2731a-87d5-4ac3-a288-44625190371d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a56fc7e5-0023-4997-92ca-938889652c94
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 10a029c8-8b80-4fd3-b044-dddf797fd1be
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 46974b70-d1c8-44a2-881b-43a302b0e782
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e44a3730-b123-4594-96e8-d6cfb33b2998
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message dabffb2f-e739-4e95-823b-4dbfb7386542
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1080769e-72d8-456e-8988-d01fdea198ca
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 21ac365c-e219-48bf-8f70-6442b25284c1
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a561ce86-f749-4053-a49a-68d151caa07e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 803fda88-e804-4968-8a4d-2363915ae4b2
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8817e596-03e9-4113-bf2f-2692aa70b88f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 95330abc-51ca-4464-bac0-91e64d90db5c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message faf29a0a-1da9-425e-97e4-60619856e1ba
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 160b0a30-6522-48de-aae3-2b9292cd1a70
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d2ef2407-33b9-43f0-8fd2-673cf1ebbd39
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b6d32bc9-bf5f-4809-b7cd-c3e4f129d64a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6d3516b3-a6e6-4022-8622-dababac38755
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e566e548-b993-435c-b470-9dd14b592826
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ed991d32-91a3-4776-b250-a46cd5810bae
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a914f3fe-971a-43da-af93-95e13893fb25
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 38c9eb56-f3ff-4628-aef0-5fb0ac76ef0e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6fb88173-9460-435e-bd21-7d3bcab4fd2d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 71c8a910-007d-435e-ba8e-90bb545035d7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8fe8de87-7510-4114-b143-2acf0c21a240
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message dc021c0a-c8d6-475d-afa8-a425a30852c6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message aa088acd-d301-4e1e-99e4-36d83fca49ad
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b9b68b53-d76c-4df7-bbf2-b9eebcfb17fb
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e5a88bd2-79d3-4fb1-8114-ae9a7e882670
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e5ffe686-9b9d-4953-9ea0-69b33b5529e1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 111ed114-2c4b-4072-a3b3-67a9282afad5
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2053ed3b-b472-419b-b44d-cc518ef397a9
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6adb7fbc-b72c-4438-890d-7e399c84d0af
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c275b313-5236-40fe-bcd0-85f06a130400
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b117c0ae-d83e-4cd4-83dd-2e8ea8d7d3bd
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fb050150-324b-407a-99b4-07bf9189c796
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ec82d37c-d17b-4fe9-adc2-4ece7c64ab87
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 46a081b4-f388-43bd-b381-e57dcc15a871
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 99c2dcc8-a4fb-4508-9118-ac4f847d6e0b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 90fd9fb5-e8d6-4ad6-87ad-21cd832f955f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message babbbbdb-3d05-460e-a687-ad48a410d175
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 44c8d916-234c-4e24-afa4-c87391b8f211
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8635cb3d-568e-49ef-b49e-a5e0884bd29a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 7ee63f01-9db0-4bf5-9ca3-0fa6bea34645
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 930d303a-466f-434b-a109-329440c04ab6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6a2b46f0-5499-4803-87bf-776111dbc1d6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 37b2f090-1c42-4019-aec4-87f4b8a8e70d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1b1d1a38-b070-4483-a6ad-eca03c7b7e6c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a90181fb-cdf5-48a2-bcb0-7536972325d9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e63558a1-6ea9-45fe-ba97-f28206daf82f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 77891f8a-bbd4-4849-a1c8-169d38fc1eb7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8ac72ee3-ce5d-4b16-8609-0be6d5b92b87
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 334567af-9457-451e-95ab-7c6a51a57902
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 99b575e4-bf84-40ae-b17a-e08db4a35ffd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b36676e0-27ff-4bfd-8b5f-85c3052fd1a2
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4d79d9f5-e2d4-41e3-885d-04fc9c03b1b8
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c6b947fc-8945-4164-8716-a57020a56742
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a37a60c7-b833-4a31-9a22-83cd936761c6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 56d5a8d5-c31f-44b5-839b-af3494e7e1d4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message fd204050-006f-4cf9-802e-b71c7d1073ec
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 409c834c-894c-4832-a4c6-6fa358725303
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b64b1d18-2abb-419e-a132-7743f565d9b4
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 737ffe4d-6191-471f-935e-6fab54356df5
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 14ce5519-4554-44cc-a91d-03ec52e2a88d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b6b2e7ff-c860-41c9-8bf3-fc2a971af0de
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 634a7ff2-8163-4d14-aa9d-80b0e6ef0a5f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7dab39e0-dbf9-4a84-a1f9-5ca6dbe8545f
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 5c783cee-0c13-4116-b46a-055eee791b74
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 855138c3-a20c-4ff2-91ac-df04da8b41e8
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 01ea353d-5b31-4612-be91-d82f680eef53
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 347f00ac-41a8-4d24-91df-4fe764226552
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e2edee34-6139-4a0f-a90b-56f5d38b4b37
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 68517269-8312-43c6-a621-50d517b2fa0b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 58ee9f44-5ddb-4a42-b219-f0e9fe3e3ffd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ad6d33ce-aa3d-49c2-80ad-6e0a5dddec14
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 80439789-e75c-4be4-98c1-a9a1c636bdab
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4746df69-57c2-4844-980a-e43f3f3589ff
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4136903d-d37e-4c09-8fff-e93cbfe240bc
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message bceee5ee-a3aa-49c7-b6f5-e2e61c254e21
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message cccea2df-7cae-4854-802c-e22591e6079c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 070c91f6-78aa-4a51-9f4c-51ee22e2625e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a79c0852-27c2-4bb1-92cb-66833041f8a0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fb1a37b9-12fa-4274-a33b-933ef8a75850
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 4be526cd-7fc5-4142-a0af-5b992cc8cf5d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message e8a87087-91ee-42b1-9cf2-83fb6456a35f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f348439e-ddf2-4b06-9568-95fc8063461f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 08f03401-c176-4553-b9a9-529b09ccf010
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 272b91b3-e679-48f4-a665-90fc9a761a4b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 76e61a62-4bc1-49da-8d1c-273caa23ab51
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9a69b8cb-87a8-4b25-9003-0886f6de59f7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b705b805-ecbe-457f-b148-6bb1e910e424
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2ae8b2c3-8c2c-44fb-977a-2fd8c6dd6762
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 78162362-3e8a-47b5-83b0-240109afa12f
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b604f9f9-4a53-4152-a9da-5e7343fef846
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2e9d9eb7-9969-4396-8e6d-5b662dcb65da
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 85645693-bd12-49b1-a518-61f4bf66e210
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c7fea456-51d7-4ab5-b154-075f0fe2932f
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 948be4fd-9be6-408b-bc3a-de4c5d75e58b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 674906d0-f9d5-403c-9563-2a7e42ef7999
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 774074fe-0785-4e30-8d57-e4dfdedd3e38
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6502e13a-5955-4d70-894f-e78bfaf7d739
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 98f3cc18-c6b1-4b4c-b34b-a4ba07505647
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 996a076e-fafe-4ae1-9b70-9ead348aadd2
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a63cb21b-4ac7-4936-8fef-c24dadc3236f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c0bc4752-7500-4727-adf5-c853f2ba0958
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 24aec918-fcd7-4e83-a0ae-28f669341cbb
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 21974e77-ba7a-4226-b363-d7f2ae6fb937
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f5eee057-6e7b-453e-b0ac-ac84f16f4bac
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 414c7d16-bbdd-461b-99fe-22adf207a84b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message cbcf47b0-fcf6-4a83-a52a-8d130da17cce
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 69f9400f-e7b4-448f-9efc-df393af2e10b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message deba55d6-b20b-4561-8bc8-d3fa91d448bf
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 9616721c-bdc4-4eb0-924f-22af8681b361
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 30ec2aec-801c-4739-84f9-ecae785808bf
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ff7fc547-b978-46aa-9306-45a3e079cf4c
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f57d5aba-3f11-4d7d-9b23-df8a62444db7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f360ae47-17f8-4bf9-bc8a-e221dc967d2b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 71b3464d-3528-4797-aadd-79f1140b09c0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message cb20738a-fa33-41d7-ac57-2a3fc5105bff
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 08746732-345d-48e1-b94c-ba7d9a8e78aa
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8e589f39-2b37-44c7-9ce8-2dc30300bd56
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5bae6c4d-6088-4d16-bd3b-70a22695dd22
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message eb6a72c8-df1a-43ff-b4d8-03beb2c47c2a
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b3d1d738-3a91-4a9f-bafa-0f72d96713bf
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 658c588b-f575-4ae8-b35f-068aff038408
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 49b81621-0ab2-47ef-b352-9a4fdf142922
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message eae39884-3b34-4b55-acd2-9e7d30f8285b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 83502b17-9994-4bbb-83d7-74c9d5b07752
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 69edaf4e-672d-4228-a09c-f8f59e1de5de
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8f16be84-8f9b-43d4-9076-8192c69a0532
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fdcf0ea5-c912-46f3-b31d-b0356cbb60ac
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 776ff0c5-6776-4b43-961d-bdefb4c014f6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2ddc1889-9421-4823-8f1d-3607d1cd0783
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message af0b21fb-4deb-417b-88cb-ceabaa70fa58
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message fd3b79fd-8b04-47d2-82b0-08c871d152d3
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f71842e3-8517-4ddc-bee6-b8b91733e5d1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 1a747256-dc50-436e-bf50-d58f470b51bf
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6a699223-6ee3-4fcc-a2f5-341f1eded096
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b757c5f7-f14f-43a3-a9df-6a06ecff25de
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ae08a41d-9116-4af2-8a25-8d3535c563bd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a627912a-5475-4e6f-acf3-01319ab540a1
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c086e704-f341-43e2-8b70-2a0e8c24390f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message dafde18f-5653-4762-975d-b9f2dee9af6e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 4de911e9-7dde-4c30-b483-8f08a208a51a
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message dd68674b-5e24-4b0c-9ea6-9c773e5af664
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d6def8eb-4eff-41fc-a714-e2544f8bcaf6
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message deef0bf3-567c-4e43-9933-b4ad7b2f9920
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 34f35368-3831-412e-a54c-4c9f3d788f8b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a92647ae-d9b3-4f6e-ac9f-23f7eb05ad3b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b7cc0da1-34ad-4ed7-81d9-698bc75e8f1e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 9ab29c57-ea16-487d-ae7d-be3807e95056
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6c90e4ae-258f-4fdf-b810-120d9c1b156e
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 193c213f-533d-492b-938e-647bb7adeb45
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8a06ca1f-1f05-47a4-bf15-8f07e40c02c1
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 2cdfa5be-109e-4c1e-bf30-90b480726089
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message acde7920-e750-43e8-b9a6-6ada0e01c512
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 58f9cd85-d8d7-4c24-bbda-ba5d38537589
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 82534665-1945-4de4-bc73-b8c7e4b7276f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 5562acad-e556-4e54-9057-984ce2110923
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 0c5a1938-6aac-4c25-b837-ce6fd631b927
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 267015f1-71fd-4a0b-a86c-3c0cf2bda46e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 513bf5db-bca6-41c6-81b0-0c1f07014d88
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 96ad2d18-430d-4600-b355-095a04c8d83b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a15ce8ac-9a89-45ad-9675-6c86bf3c3d82
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d953bace-b778-4609-a30a-3faa5d03aa15
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 8afc9452-17a4-401f-a635-2bcd2d56d36f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message dac5750c-c90e-4ddc-9327-99e26e404fbf
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fb97b0c7-33ea-4f38-beb8-291144208b9b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message bda8738d-abec-400d-8521-08672175730b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a51df87c-6a42-4915-a5d6-be6a1d1cef06
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9a001c96-73ab-403f-ac0c-96515c20c12f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1101103b-7e98-4b0f-ae53-5459447057dd
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 9d4ece20-f5fe-4db4-89a2-8168b6da5d13
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1f40f8dd-a853-42eb-951f-09ae9167aaae
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message d87e73ad-f143-49b8-a95a-97f195325265
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message b7aa0f09-fe9b-46fb-aaf5-7c03a20f7de7
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f92fbaae-a1e9-4928-98db-6839ba0351db
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6bd4ff1a-7e1e-4d07-abdc-12cc5cf5aae3
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message afe26549-0805-46e4-b802-f694bf20352c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0b03c5b2-bbb5-4d2b-a5d7-9abfa5aabc97
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 99924bc6-da2e-430c-a88d-905f5de14840
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message a5453e85-8ffd-411d-8b5d-c9f5e41783d3
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 26ffe22a-9f8f-4372-9e2f-5ad132419266
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 36aed37b-67f3-4fb4-8028-f9c09af33610
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 003fbd04-9e98-4276-947a-7777f6aed10d
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 6efc064c-da1a-4f0e-a46a-a43325ca9733
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f7fded31-81a3-46e5-84fa-2370b80c3d6b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 90917c47-75c4-49bf-bfb7-6e6b5bec5b4f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 114637c1-fdc5-431a-80ec-03e3f1273209
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8d62c7d8-53aa-4efa-a430-b4f1ed574cbe
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ad3836ec-4eb4-4577-9d9b-e7c6b355796d
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2ef83b8d-3970-43c9-86b0-d82eda4fb4dc
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ae3489f3-b371-44bb-90fb-dc3b688e0446
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 2eed9f40-1827-4c14-9478-f50cf690568f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d0d2644a-48b0-4eb6-a081-771cfcb151ea
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message c33e306b-b368-448d-9f17-ab3bedbe019b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 6c092052-cafd-4aae-ae48-78cc97ae1f47
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message f1b272e4-cb0a-46fc-b61e-85b366231a13
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a99a6fc7-1cb3-4230-82ca-d75ba778d35e
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message fdbf7ec5-a8a5-430f-86ab-2fdd35523a72
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 029e971b-810c-4f6d-a330-b74780f3e65f
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message bddaaaeb-e4a4-402a-8a27-fbd4af7a2d71
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1b9ab164-8950-478b-b65a-f3b29557b0a6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message ec63905e-8cea-4799-a205-31002c7076e0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a97d60bd-18a9-4185-8bc9-d288ba28ca29
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 41f8e88e-6024-46c8-bf30-f9ccefa51716
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 1a9342d0-f7e7-4395-b438-a68d9f178cd6
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 3ea67300-3525-4aad-b025-4f3b79624dd9
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 135ad9e2-5cca-44ef-8ab5-f8fd8a5dbd1b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message b18b6f32-f911-4072-9e20-a237597efe9b
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message a4c533fb-9b0b-4df3-993e-5fbed83eb1dd
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d3db28d7-873a-4716-953c-ad7fb43bb9a7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message d94e67dc-1034-433b-b9d0-ebbb0094fea1
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: evaluate message 22745fe6-ed8d-465d-b8c6-57d5ff02a922
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message e4dd3ed7-690f-4b50-b3e8-19139974d4ce
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message dadab24f-8b67-473a-b0be-ca1c75416d36
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c7f9a9f3-3be5-41cd-8df9-50a2aecf2ece
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 151a32eb-5bc1-4d91-8bdb-59dc50c52b0c
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message f83c7452-0483-4da0-8593-e3b95faa5c27
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 576b8d4d-f231-47ce-a450-5f5a7e4678bc
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 387e2cbc-f20d-4cce-908f-7c316160b551
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 3136871b-b764-4760-b883-f5ce5dd67e59
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 44dc1da8-2f3a-4f8c-8103-ee648d8044f4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message cebec90d-5d01-4437-a7a6-7c02e8b616f0
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message dfa10d67-faf3-41d3-b344-856ba79babf3
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message c9d26ef2-e25c-41ef-8015-8c664f3d00b4
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message ec140ff9-5f77-435d-ad41-68259b17121b
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7b7b65f7-b7f4-439d-8347-9a10012c0dfc
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 7d4ec936-4e54-4a00-8090-5062bd110eda
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 0d5e7b2a-22c8-4fba-b84f-cc5a7fc4433d
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message de1d4704-abd4-48be-ad48-a58b05d86db7
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 07b247e0-75b1-432b-b8d2-ea873503f922
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 8ba6f829-0c98-4bd3-bab2-54ef4ad03c16
+[92mINFO [0m:      
+[92mINFO [0m:      Received: train message 04f586f4-9a32-4d64-9168-0f3fb7347e82
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+[92mINFO [0m:      Sent reply
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    raise self
+    start_client(
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421193557+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421089553+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.421152741+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.421270892+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421252548+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>    proto = next(server_message_iterator)
+
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421197114+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421311157+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.421086687+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.42120014+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421152761+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.444594757+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    _start_client_internal(
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    fl.client.start_numpy_client(
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    return self._next()
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    raise self
+    return self._next()
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.421286992+00:00"}"
+>
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421109931+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.443472957+00:00"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421192916+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.443135897+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    start_client(
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    _start_client_internal(
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    message = receive()
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    proto = next(server_message_iterator)
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    _start_client_internal(
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    message = receive()
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    raise self
+    proto = next(server_message_iterator)
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-09-10T04:06:43.421191734+00:00"}"
+>  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421267265+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421252518+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>
+------------------------
+training configs: {'dirichlet_alpha': 1, 'dataset': 'CIFAR10', 'data_root': './datasets', 'iid_degree': 1, 'seed': 42, 'targets': True, 'select_num': 1000, 'batch_size': 64, 'task': 'CV', 'algorithm': 'FedRA', 'rounds': 150, 'num_clients': 20, 'train_fraction': 1, 'clients_fraction': 1, 'local_epoch': 1, 'device': 'cuda:1', 'fine_tune_epoch': 10, 'public_rate': 0.2, 'csv_name': 'fedRA', 'csv_path': './logs/final/fedRA/', 'global_model_name': 'cnn_moe', 'model_name': 'cnn_moe', 'model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'global_model_kwargs': {'class_num': 10, 'expert_num': 10, 'top_k': 4, 'mlp_hidden_dim': 512}, 'optimizer': 'Adam', 'optimizer_kwargs': {'lr': 0.0001, 'weight_decay': 5e-05}, 'criterion': 'CrossEntropyLoss', 'client_resources': {'num_gpus': 0, 'num_cpus': 1}, 'log_dir': './logs'}
+------------------------
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/home/ubuntu/Zwdw/Code/flower/client.py", line 77, in <module>
+    fl.client.start_numpy_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 535, in start_numpy_client
+    start_client(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 157, in start_client
+    _start_client_internal(
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/app.py", line 333, in _start_client_internal
+    message = receive()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/flwr/client/grpc_client/connection.py", line 144, in receive
+    proto = next(server_message_iterator)
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 543, in __next__
+    return self._next()
+  File "/home/ubuntu/miniconda3/envs/pytorch/lib/python3.9/site-packages/grpc/_channel.py", line 969, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:8085 {created_time:"2024-09-10T04:06:43.421162469+00:00", grpc_status:14, grpc_message:"Socket closed"}"
+>

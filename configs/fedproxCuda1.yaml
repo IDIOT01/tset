@@ -1,0 +1,66 @@
+
+dirichlet_alpha: 1
+
+
+# data related settings
+dataset: CIFAR10
+data_root: ./datasets
+iid_degree: 1 # alpha
+seed: 42
+targets: True #False for dataset has no such attribute 'targets'
+select_num: 1000 # I am not sure if this parameter should be used.
+batch_size: 64
+
+# task and algorithm
+task: CV # supports CV and Regression
+algorithm: FedProx # supports FedAvg, FedProx, FedBN
+# algorithm specific settings
+proximal_mu: 0.001
+
+
+##test
+rounds: 150 # global rounds
+num_clients: 30 # client number
+train_fraction: 1 # training dataset ratio
+clients_fraction: 1 # client selection ratio
+local_epoch: 1 # local epoch
+device: cuda:1 # cpu or cuda
+fine_tune_epoch: 10
+public_rate: 0.2
+csv_name: 'fedprox'
+csv_path: './logs/final/fedprox/'
+
+# model related settings
+global_model_name: cnn_moe
+model_name: cnn_moe # model name
+# args should refer the implement in models.moe.py and MODEL_LIST in utils.py
+model_kwargs:
+  class_num: 10
+  expert_num: 10
+  top_k: 4
+  mlp_hidden_dim: 512
+
+# global model
+global_model_kwargs:
+  class_num: 10
+  expert_num: 10
+  top_k: 4
+  mlp_hidden_dim: 512
+
+
+
+
+# optimizer and loss settings
+optimizer: Adam
+optimizer_kwargs:
+  lr: 0.0001
+  weight_decay: 0.00005
+criterion: CrossEntropyLoss
+
+# flower framework resource settings
+client_resources:
+  num_gpus: 0
+  num_cpus: 1
+
+# logs
+log_dir: ./logs

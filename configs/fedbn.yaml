@@ -1,0 +1,43 @@
+# data related settings
+dataset: CIFAR10
+data_root: ./datasets
+iid_degree: 1000 # alpha
+seed: 42
+# for data streams
+targets: True #False for dataset has no such attribute 'targets'
+select_num: 1000
+batch_size: 100
+
+# task and algorithm
+task: CV # supports CV and Regression
+algorithm: FedBN # supports FedAvg, FedProx, FedBN
+
+# algorithm specific settings
+save_path: "./tmp"
+
+# FL related settings
+rounds: 1
+num_clients: 10
+clients_fraction: 0.1
+local_epoch: 1
+device: cpu
+
+# model related settings
+model_name: resnet18
+model_kwargs:
+  num_classes: 10
+
+# optimizer and loss settings
+optimizer: Adam
+optimizer_kwargs:
+  lr: 0.0001
+  weight_decay: 0.005
+criterion: CrossEntropyLoss
+
+# flower framework resource settings
+client_resources:
+  num_gpus: 0
+  num_cpus: 1
+
+# logs
+log_dir: ./logs

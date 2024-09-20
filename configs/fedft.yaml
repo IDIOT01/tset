@@ -1,0 +1,69 @@
+
+dirichlet_alpha: 0.1 # Actually , this parameter is not be used, but it need to be equal to iid_degree
+
+
+# data related settings
+dataset: CIFAR10
+data_root: ./datasets
+iid_degree: 0.1 # alpha
+seed: 42
+targets: True #False for dataset has no such attribute 'targets'
+select_num: 1000 # I am not sure if this parameter should be used.
+batch_size: 64
+
+# task and algorithm
+task: CV # supports CV and Regression
+algorithm: FedFT # supports FedAvg, FedProx, FedBN
+
+# FL related settings
+#rounds: 5 # global rounds
+#num_clients: 5 # client number
+#train_fraction: 0.9 # training dataset ratio
+#clients_fraction: 0.4 # client selection ratio
+#local_epoch: 2 # local epoch
+#device: cuda:0 # cpu or cuda
+
+##test
+rounds: 150 # global rounds
+num_clients: 20 # client number
+train_fraction: 1 # training dataset ratio
+clients_fraction: 1 # client selection ratio
+local_epoch: 1 # local epoch
+device: cuda:1 # cpu or cuda
+fine_tune_epoch: 10
+public_rate: 0.2
+csv_name: 'fedft'
+csv_path: './logs/final/fedft/'
+
+# model related settings
+global_model_name: cnn_moe
+model_name: cnn # model name
+# args should refer the implement in models.moe.py and MODEL_LIST in utils.py
+model_kwargs:
+  class_num: 10
+  mlp_hidden_dim: 512
+
+# global model
+global_model_kwargs:
+  class_num: 10
+  expert_num: 10
+  top_k: 4
+  mlp_hidden_dim: 512
+
+
+
+
+# optimizer and loss settings
+optimizer: Adam
+optimizer_kwargs:
+  lr: 0.0001
+  weight_decay: 0.00005
+criterion: CrossEntropyLoss
+
+# flower framework resource settings
+client_resources:
+  num_gpus: 0
+  num_cpus: 1
+
+# logs
+log_dir: ./logs
